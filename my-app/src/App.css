@@ -1,0 +1,237 @@
+.card {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+
+
+.desc {
+  font-size: 14px;
+}
+
+.star {
+  color: gold;
+}
+
+.username {
+  font-size: 14px;
+}
+
+.date {
+  font-size: 12px;
+}
+
+form {
+  width: 450px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: rgb(88, 87, 87);
+}
+
+input {
+
+  width: 8em;
+
+}
+
+input::placeholder,
+textarea::placeholder {
+  
+  font-size: 15px;
+  color: rgb(147, 144, 144);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+textarea {
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+.submitButton {
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  background-color: #014421;
+  cursor: pointer;
+}
+
+.buttons,
+.logout {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.dashboard {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.graphs {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.imap {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.proposal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+.button {
+  border: none;
+  padding: 7px 3em;
+  border-radius: 3px;
+  color: white;
+  background-color: #014421;
+  font-weight: normal;
+  font-size: 1.5 rem;
+  cursor: pointer;
+}
+
+.button:focus{
+  outline: none;
+}
+
+.dashboard{
+ 
+  top: 10px;
+  right: 220px;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  padding: 5px 1.5em;
+  font-size: 24px;
+  font-weight: normal;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+
+}
+
+.proposal{
+ 
+  top: 10px;
+  right: 910px;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  padding: 5px 1.5em;
+  font-size: 24px;
+  font-weight: normal;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+
+}
+.graphs{
+ 
+  top: 10px;
+  right: 445px;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  padding: 5px 3em;
+  font-size: 24px;
+  font-weight: normal;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+
+}
+.imap{
+ 
+  top: 10px;
+  right: 670px;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  padding: 5px 3em;
+  font-size: 24px;
+  font-weight: normal;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+
+}
+
+
+.logout{
+  top: 3.5vh;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  font-weight: normal;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+  display: flex;
+  align-items: center;
+  text-decoration: none;  
+  font-size: 1.1rem;
+  margin-right: 2rem;
+  padding: 6px 16px;
+  border-radius: 5px;
+
+
+}
+
+.login{
+ 
+  top: 20px;
+  right: 30px;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  padding: 5px 2em;
+  font-size: 1.1rem;
+  font-weight: normal;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+ 
+
+
+
+}
+
+.register{
+
+  position: absolute;
+  top: 1px;
+  right: 150px;
+  border: none;
+  outline: none;
+  background: #014421;
+  color: #fff;
+  padding: 5px 1.5em;
+  font-size: 1.1rem;
+  font-weight: normal;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+
+ 
+}
+

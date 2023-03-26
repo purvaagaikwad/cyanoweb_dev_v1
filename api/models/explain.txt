@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/api/fetch_data
+
+- Python api
+- used pandas data scraping: pandas is a framework for data aggregation
+- used FAST API to build the REST-api backend
+
+- The api fetches the data in real Time
+- converts it to a tabular from
+- saves the data in csv format
+- also responds with the json format of the data

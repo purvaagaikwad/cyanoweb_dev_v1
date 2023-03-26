@@ -1,0 +1,125 @@
+@media(min-width:1000px){.Erieboy{
+    width:750px;
+    height: 900px;
+    top:0em;
+    padding:0px;
+    background-color:white;
+     left:190px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:1920px){.Erieboy{
+    width:850px;
+    height:1000px;
+    top:0em;
+    padding:8px;
+    background-color:white;
+     left:190px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:2000px){.Erieboy{
+    width: 850px;
+    height:1000px;
+    top:0px;
+    padding:0px;
+    left:190px;
+    background-color:white;
+   
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:3000px){.Erieboy{
+    width:850px;
+    height:1000px;
+    padding:0;
+    margin:0;
+    top:0px;
+    left:190px;
+    background-color:white;
+   
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:1000px){.Sciogirl{
+    width:55vw;
+    height:80vh;
+    padding:0px;
+    top:0;
+    background-color:white;
+     left:320px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:1920px){.Sciogirl{
+    width:58vw;
+    height:72vh;
+    padding:0px;
+    top:0;
+    background-color:white;
+    left:320px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:2000px){.Sciogirl{
+    width:55vw;
+    height:73vh;
+    padding:0px;
+    top:0;
+    background-color:white;
+    left:320px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:3000px){.Sciogirl{
+    width:40vw;
+    height:65vh;
+    padding:0px;
+    top:0;
+    background-color:white;
+    left:320px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:1000px){.Marybob{
+    width:750px;
+    height:900px;
+    padding:0px;
+    top:0;
+    background-color:white;
+     right:340px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:2000px){.Marybob{
+    width:850px;
+    height:1000px;
+    padding:0px;
+    top:0;
+    background-color:white;
+     right:340px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:1920px){.Marybob{
+    width:850px;
+    height:1000px;
+    top:0em;
+    padding:8px;
+    background-color:white;
+     left:190px;
+    display:initial;
+    position:absolute;
+}}
+@media(min-width:3000px){.Marybob{
+    width:850px;
+    height:1000px;
+    padding:0;
+    margin:0;
+    top:0px;
+    left:190px;
+    background-color:white;
+   
+    display:initial;
+    position:absolute;
+}}

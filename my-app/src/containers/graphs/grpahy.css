@@ -1,0 +1,20 @@
+@media(max-width:2000px){.grpahy{
+    width:920px;
+    height:700px;
+    
+    left:20px;
+    top:2px;
+   
+    display:initial;
+    position:absolute;               
+}}
+@media(min-width:2000px){.grpahy{
+    width:1500px;
+    height:1100px;
+    
+    left:20px;
+    top:2px;
+   
+    display:initial;
+    position:absolute;               
+}}

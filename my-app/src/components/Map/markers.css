@@ -1,0 +1,79 @@
+.scioto-data {
+    display: flex;
+    align-items: center;
+    height: 5vh;
+    color: #014421;
+}
+
+.scioto-data a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.7rem;
+    margin-right: 1rem;
+    padding: 3px 8px;
+    border-radius: 2px;
+    background: #88bba1;
+}
+.scioto-data a:hover {
+    background: #99deba;
+}
+
+.erie-data {
+    display: flex;
+    align-items: center;
+    height: 5vh;
+    color: #014421;
+}
+
+.erie-data a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.7rem;
+    margin-right: 1rem;
+    padding: 3px 8px;
+    border-radius: 2px;
+    background: #88bba1;
+}
+.erie-data a:hover {
+    background: #99deba;
+}
+
+.mary-data {
+    display: flex;
+    align-items: center;
+    height: 5vh;
+    color: #014421;
+}
+
+.mary-data a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.7rem;
+    margin-right: 1rem;
+    padding: 3px 8px;
+    border-radius: 2px;
+    background: #88bba1;
+}
+.mary-data a:hover {
+    background: #99deba;
+}
+
+.ohio-data {
+    display: flex;
+    align-items: center;
+    height: 5vh;
+    color: #014421;
+}
+
+.ohio-data a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.7rem;
+    margin-right: 1rem;
+    padding: 3px 8px;
+    border-radius: 2px;
+    background: #88bba1;
+}
+.ohio-data a:hover {
+    background: #99deba;
+}

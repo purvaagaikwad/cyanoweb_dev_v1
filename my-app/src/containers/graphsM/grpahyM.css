@@ -1,0 +1,22 @@
+
+@media(max-width:2000px){.grpahyM{
+    width:1200px;
+    height:800px;
+    left:20px;
+    top:2px;
+    display:initial;
+    position:absolute;
+}
+
+}
+
+@media(min-width:2000px){.grpahyM{
+    width:1600px;
+    height:1000px;
+    left:20px;
+    top:2px;
+    display:initial;
+    position:absolute;
+}
+
+}

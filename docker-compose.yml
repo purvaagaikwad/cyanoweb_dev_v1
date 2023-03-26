@@ -1,0 +1,21 @@
+version: '2'
+
+services:
+  app:
+    restart: always
+    build: .
+    ports:
+      - "4080:3080"
+  mongodb:
+    image: bitnami/mongodb:6.0
+    restart: always
+    ports:
+      - "47017:27017"
+    volumes:
+      - './mongodb_data:/bitnami/mongodb'
+    environment:
+      - MONGODB_ROOT_PASSWORD=AkBuk34yYva6L9
+      - MONGODB_USERNAME=cyanoweb_user
+      - MONGODB_PASSWORD=QGXKnfyMduD7u2
+      - MONGODB_DATABASE=cyanoweb_db
+
