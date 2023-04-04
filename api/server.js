@@ -22,7 +22,7 @@ const { MongoClient } = require("mongodb");
 const {DatauploadSchema} = require('./models/Dataupload');
 const { db } = require('./models/Fileupload');
 // Connection URI
-const uri =  'mongodb://127.0.0.1:27017';
+const uri =  '';
 // Create a new MongoClient
 // const client = new MongoClient(uri);
 // async function run() {
@@ -41,7 +41,7 @@ const uri =  'mongodb://127.0.0.1:27017';
 
 // mongoose.set('strictQuery', true);
 dotenv.config();
-mongoose.connect("mongodb+srv://purvaagaikwad:P*ga32982020@cluster0.o5w1o.mongodb.net/mytable?retryWrites=true&w=majority", () =>console.log("Database connected") )
+mongoose.connect("", () =>console.log("Database connected") )
 //mongoose.connect("mongodb://localhost:27017/cyanoweb", 
 
 // (err) => {
